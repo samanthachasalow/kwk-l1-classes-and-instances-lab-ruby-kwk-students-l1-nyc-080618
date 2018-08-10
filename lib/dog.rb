@@ -5,5 +5,13 @@ class Dog
 end
 
 dog_one = dog_one.new("fido")
-  puts dog_one.
+  puts dog_one.dog
+end
+dog_two = dog_two.new("snoopy")
+  puts dog_two.dog 
+end
+dog_three = dog_three.new("lassie")
+  puts dog_three.dog 
+end 
+  
 
