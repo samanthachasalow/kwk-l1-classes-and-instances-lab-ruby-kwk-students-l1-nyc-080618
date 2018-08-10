@@ -5,4 +5,5 @@ class Dog
 end
 
 dog_one = dog_one.new("fido")
+  puts dog_one.
 
